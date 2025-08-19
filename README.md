@@ -7,8 +7,6 @@
 
 <h2> 📜 Certifications</h2>
 
-- Google Cybersecurity Professional Certificate
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" />][linkedin]
